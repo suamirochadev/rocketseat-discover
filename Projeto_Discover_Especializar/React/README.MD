@@ -3,6 +3,8 @@
 ## ⭐ Prévia
 
 ![](https://media.giphy.com/media/Tr6C5k5OASwcngnZJy/giphy.gif)
+
+
 🔗: [Clique aqui ♥](https://lista-de-presenca-com-react-e-vite.netlify.app/)
 
 ---
